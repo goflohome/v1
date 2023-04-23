@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: Helvetica;
+}
+
+canvas{
+    width: 100vw;
+    height: 100vh;
+}
+
+.ball-text {
+    font-family: Helvetica;
+    font-weight: bold;
+    position: fixed;
+    z-index: 2;
+    color: rgb(255, 0, 255, 1);
+    font-size: 10rem;
+    left: 20%;
+    bottom: 42%;
+    transform: translate(20%, -40%);
+}
