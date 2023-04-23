@@ -21,7 +21,5 @@ canvas{
     z-index: 2;
     color: rgb(255, 0, 255, 1);
     font-size: 10rem;
-    bottom: 37%;
-    left: 27%;
-    transform: translate(27%, -37%);
+    text-align: center;
 }
