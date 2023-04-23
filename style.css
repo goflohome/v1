@@ -22,6 +22,6 @@ canvas{
     color: rgb(255, 0, 255, 1);
     font-size: 10rem;
     bottom: 37%;
-    left: 35%;
-    transform: translate(35%, -37%);
+    left: 30%;
+    transform: translate(30%, -37%);
 }
